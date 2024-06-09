@@ -22,7 +22,7 @@ const Header = () => {
           <Cloud className="text-gray-500"  />
           <div className="flex gap-2 items-center">
             <Avatar alt="Travis Howard" src={"https://images.ctfassets.net/hrltx12pl8hq/3AnnkVqrlhrqb9hjlMBzKX/693a8e5d40b4b6c55a7673ca4c807eef/Girl-Stock"} />
-            <div>Arjun</div>
+            <div>Oliva</div>
           </div>
         </div>
       </div>
